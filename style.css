@@ -1,0 +1,79 @@
+
+.grid{
+
+border-radius: 15px;
+
+display:flex;
+justify-content:space-evenly;
+
+flex-wrap: wrap;
+align-self: auto;
+}
+
+.grid1{
+   
+    border-radius: 15px;
+    
+    display:flex;
+    justify-content:space-evenly;
+
+    flex-wrap: wrap;
+    align-self: auto;
+    }
+    
+
+
+.origami{
+    border-radius: 20 px;
+    
+    width:310px;
+    font-family:fantasy;
+    }
+    
+ 
+*{
+background-color:rgb(121, 233, 121)
+
+}
+
+h3 {
+    color: rgb(245, 0, 233);
+}
+
+.menu{
+display:flex;
+justify-content:space-between;
+background-color:black;
+font-size:20px;
+font-size:20px;
+font-weight:400;
+color:white;
+
+}
+
+body{
+    background-color:whitesomke;
+}
+
+.header{
+display:flex;
+justify-content: center;
+font-weight:400;
+background-color: rgb(236, 184, 116);
+color:rgb(42, 45, 216)
+
+}
+.header1{
+    display:flex;
+    justify-content: center;
+    font-weight:400;
+    background-color: rgb(236, 184, 116);
+    color:rgb(255, 2, 2)
+    
+    }
+
+    .header2{
+border:2px solid black;
+border-radius:50px;
+
+    }
